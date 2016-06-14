@@ -1,0 +1,203 @@
+repository_name,payload_commit_msg
+bootstrap,Delete License
+bootstrap,Rename LICENSE.md to LICENSE
+bootstrap,Create License
+bootstrap,"Add gulp-license, gulp-livereload, gulp-logger and gulp-watch"
+bootstrap,Update LICENSE
+bootstrap,Create License
+bootstrap,Delete LICENSE
+bootstrap,Update LICENSE
+bootstrap,Create LICENSE.md
+bootstrap,Delete LICENSE
+bootstrap,Delete LICENSE
+bootstrap,Delete LICENSE
+bootstrap,Delete LICENSE
+bootstrap,Delete LICENSE
+bootstrap,Delete LICENSE
+bootstrap,Delete LICENSE
+bootstrap,Add MIT license
+bootstrap,Update: LICENSE: fix company name
+bootstrap,Delete LICENSE
+bootstrap,Delete LICENSE
+bootstrap,Updated license date Updated license date to 2015 for new year.
+bootstrap,Adding MIT-zero license
+bootstrap,[rm license and add abc]
+bootstrap,add LICENSE
+bootstrap,Merge pull request #11046 from ZDroid/patch-3 Nicer docs license name
+bootstrap,Add license and fix whitespaces
+bootstrap,Change license from Apache to MIT
+bootstrap,Merge branch 'master' of https://github.com/jakofranko/bootstrap Conflicts: .editorconfig .gitattributes .gitignore .travis.yml CNAME CONTRIBUTING.md Gruntfile.js LICENSE README.md _config.yml bower.json composer.json dist/css/bootstrap-theme.css dist/css/bootstrap-theme.css.map dist/css/bootstrap-theme.min.css dist/css/bootstrap.css dist/css/bootstrap.css.map dist/css/bootstrap.min.css dist/fonts/glyphicons-halflings-regular.eot dist/fonts/glyphicons-halflings-regular.svg dist/fonts/glyphicons-halflings-regular.ttf dist/fonts/glyphicons-halflings-regular.woff dist/js/bootstrap.js dist/js/bootstrap.min.js docs/LICENSE docs/_data/core-team.yml docs/_data/glyphicons.yml docs/_data/sass-team.yml docs/_data/showcase.yml docs/_includes/ads.html docs/_includes/customizer-variables.html docs/_includes/footer.html docs/_includes/header.html docs/_includes/social-buttons.html docs/_layouts/default.html docs/_layouts/home.html docs/about.html docs/assets/css/docs.min.css docs/assets/ico/apple-touch-icon-144-precomposed.png docs/assets/ico/favicon.ico docs/assets/img/components.png docs/assets/img/devices.png docs/assets/img/sass-less.png docs/assets/js/customize.min.js docs/assets/js/docs.min.js docs/assets/js/ie8-responsive-file-warning.js docs/assets/js/raw-files.min.js docs/components.html docs/css.html docs/customize.html docs/dist/css/bootstrap-theme.css.map docs/dist/css/bootstrap-theme.min.css docs/dist/css/bootstrap.css.map docs/dist/css/bootstrap.min.css docs/dist/fonts/glyphicons-halflings-regular.eot docs/dist/fonts/glyphicons-halflings-regular.svg docs/dist/fonts/glyphicons-halflings-regular.ttf docs/dist/fonts/glyphicons-halflings-regular.woff docs/dist/js/bootstrap.min.js docs/examples/blog/blog.css docs/examples/blog/index.html docs/examples/carousel/carousel.css docs/examples/carousel/index.html docs/examples/cover/cover.css docs/examples/cover/index.html docs/examples/dashboard/dashboard.css docs/examples/dashboard/index.html docs/examples/grid/grid.css docs/examples/grid/index.html docs/examples/jumbotron-narrow/index.html docs/examples/jumbotron-narrow/jumbotron-narrow.css docs/examples/jumbotron/index.html docs/examples/jumbotron/jumbotron.css docs/examples/justified-nav/index.html docs/examples/justified-nav/justified-nav.css docs/examples/navbar-fixed-top/index.html docs/examples/navbar-fixed-top/navbar-fixed-top.css docs/examples/navbar-static-top/index.html docs/examples/navbar-static-top/navbar-static-top.css docs/examples/navbar/index.html docs/examples/navbar/navbar.css docs/examples/non-responsive/index.html docs/examples/non-responsive/non-responsive.css docs/examples/offcanvas/index.html docs/examples/offcanvas/offcanvas.css docs/examples/offcanvas/offcanvas.js docs/examples/screenshots/blog.jpg docs/examples/screenshots/carousel.jpg docs/examples/screenshots/cover.jpg docs/examples/screenshots/dashboard.jpg docs/examples/screenshots/grid.jpg docs/examples/screenshots/jumbotron-narrow.jpg docs/examples/screenshots/jumbotron.jpg docs/examples/screenshots/justified-nav.jpg docs/examples/screenshots/navbar-fixed.jpg docs/examples/screenshots/navbar-static.jpg docs/examples/screenshots/navbar.jpg docs/examples/screenshots/non-responsive.jpg docs/examples/screenshots/offcanvas.jpg docs/examples/screenshots/sign-in.jpg docs/examples/screenshots/starter-template.jpg docs/examples/screenshots/sticky-footer-navbar.jpg docs/examples/screenshots/sticky-footer.jpg docs/examples/screenshots/theme.jpg docs/examples/signin/index.html docs/examples/signin/signin.css docs/examples/starter-template/index.html docs/examples/starter-template/starter-template.css docs/examples/sticky-footer-navbar/index.html docs/examples/sticky-footer-navbar/sticky-footer-navbar.css docs/examples/sticky-footer/index.html docs/examples/sticky-footer/sticky-footer.css docs/examples/theme/index.html docs/examples/theme/theme.css docs/getting-started.html docs/index.html docs/javascript.html docs/migration.html fonts/glyphicons-halflings-regular.eot fonts/glyphicons-halflings-regular.svg fonts/glyphicons-halflings-regular.ttf fonts/glyphicons-halflings-regular.woff grunt/.jshintrc grunt/bs-glyphicons-data-generator.js grunt/bs-lessdoc-parser.js grunt/bs-raw-files-generator.js grunt/shrinkwrap.js js/.jshintrc js/affix.js js/alert.js js/button.js js/carousel.js js/collapse.js js/dropdown.js js/modal.js js/popover.js js/scrollspy.js js/tab.js js/tests/index.html js/tests/unit/affix.js js/tests/unit/alert.js js/tests/unit/button.js js/tests/unit/carousel.js js/tests/unit/collapse.js js/tests/unit/dropdown.js js/tests/unit/modal.js js/tests/unit/phantom.js js/tests/unit/popover.js js/tests/unit/scrollspy.js js/tests/unit/tab.js js/tests/unit/tooltip.js js/tests/vendor/qunit.css js/tests/vendor/qunit.js js/tooltip.js js/transition.js less/.csscomb.json less/.csslintrc less/alerts.less less/badges.less less/bootstrap.less less/breadcrumbs.less less/button-groups.less less/buttons.less less/carousel.less less/close.less less/code.less less/component-animations.less less/dropdowns.less less/forms.less less/glyphicons.less less/grid.less less/input-groups.less less/jumbotron.less less/labels.less less/list-group.less less/media.less less/mixins.less less/modals.less less/navbar.less less/navs.less less/normalize.less less/pager.less less/pagination.less less/panels.less less/popovers.less less/print.less less/progress-bars.less less/responsive-utilities.less less/scaffolding.less less/tables.less less/theme.less less/thumbnails.less less/tooltip.less less/type.less less/utilities.less less/variables.less less/wells.less package.json test-infra/README.md test-infra/npm-shrinkwrap.canonical.json test-infra/requirements.txt test-infra/s3_cache.py test-infra/uncached-npm-install.sh
+bootstrap,Merge pull request #12317 from twbs/grunt-task-license clarify Grunt task licensing
+bootstrap,Update README.md Added file structure and edited copyright and license
+bootstrap,"Update README.md Added bootstrap copyright, license and authors"
+bootstrap,Update LICENSE just for test
+bootstrap,Merge pull request #11209 from ZDroid/new_year Update license year
+bootstrap,QA-5429 - Product naming change - licenses and source code
+bootstrap,Change license from Apache to MIT
+bootstrap,Fix newline in LICENSE.md
+bootstrap,Added file headers with Apache license
+bootstrap,Delete LICENSE
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Change license from Apache to MIT
+bootstrap,Update LICENSE Just for test
+bootstrap,Move license to the top of the file.
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Changed to dual-license text
+bootstrap,License
+bootstrap,Converted all files to MIT License
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update LICENSE
+bootstrap,Update LICENSE just for test
+bootstrap,"Move MIT license to top, link to pidfile recipe"
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,"Clear up license FAQs by using ""Bootstrap"" as noun instead of ""Twitter open source software"""
+bootstrap,Merge pull request #12605 from ZDroid/license-object Use license object instead of licenses array
+bootstrap,fixed License
+bootstrap,Update LICENSE
+bootstrap,add MIT license
+bootstrap,Change license from Apache to MIT
+bootstrap,Merge pull request #12317 from twbs/grunt-task-license clarify Grunt task licensing
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update LICENSE
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Improve license overall
+bootstrap,Change license from Apache to MIT
+bootstrap,Merge pull request #11105 from twbs/license-note Add notes about dual-licensing contributions before switching to MIT in v3.1
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Merge pull request #11105 from twbs/license-note Add notes about dual-licensing contributions before switching to MIT in v3.1
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Change license from Apache to MIT
+bootstrap,Added README and LICENSE files.
+bootstrap,Update LICENSE Actualización línea 1 V2
+bootstrap,underp license maybe
+bootstrap,Merge pull request #12219 from ZDroid/rn Rename docs/LICENSE-DOCS to docs/LICENSE
+bootstrap,Changed license.
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,license added
+bootstrap,Merge pull request #10693 from twbs/include-docs-license include a copy of the CC-BY 3.0 License that the docs are under
+bootstrap,"Add tests target to scons; use lit.py - Import lit from llvm, and add LLVM license to readme - 'scons' will build, but not test 'scons test' will test 'scosn test VERBOSE' will print the errors (if any) - Add two tests: test-empty for empty files; currently fails usage, to make sure the usage info is printed"
+bootstrap,Update LICENSE
+bootstrap,"Move license FAQs to the docs, add link to side nav"
+bootstrap,link to docs license
+bootstrap,Change license from Apache to MIT
+bootstrap,Credit author & include MIT license for PidFile class recipe
+bootstrap,"use variablef or wells background-color, update docs for glyphicons license mention, update popovers to remove that thick border and make them look mo betta"
+bootstrap,Changed license.
+bootstrap,Update license
+bootstrap,A note about the license change
+bootstrap,Update LICENSE Just for test
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Add our own fonts. This closes #3 - add custom rules to .gitignore to make sure that licensed icons never get uploaded into remotes - css for licensed fonts are being uploaded though
+bootstrap,Credit author & include MIT license for PidFile class recipe
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Change license from Apache to MIT
+bootstrap,QA-5429 - Product naming change - licenses and source code
+bootstrap,Clean up license info in README
+bootstrap,chore(LICENSE): add MIT license Closes #101
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Merge pull request #11209 from ZDroid/new_year Update license year
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update LICENSE
+bootstrap,Update LICENSE
+bootstrap,Change license from Apache to MIT
+bootstrap,Change license from Apache to MIT
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,"Move MIT license to top, link to pidfile recipe"
+bootstrap,Merge pull request #12605 from ZDroid/license-object Use license object instead of licenses array
+bootstrap,"Move MIT license to top, link to pidfile recipe"
+bootstrap,Update LICENSE.md
+bootstrap,"Clear up license FAQs by using ""Bootstrap"" as noun instead of ""Twitter open source software"""
+bootstrap,phpspec and renaming LICENSE
+bootstrap,Merge pull request #1731 from gdi2290/patch-1 style(license): update copyright year range
+bootstrap,"use variablef or wells background-color, update docs for glyphicons license mention, update popovers to remove that thick border and make them look mo betta"
+bootstrap,"Update LICENSE Apache, IP Security Protocol, Peer Name Resolrution Protocol, RPC over HTTP Protocol, Peer-to-Peer Grouping Security Protocol, Peer-to-Peer Graphing Protocol, Domains Root CA, DKIM Proxy, Cloud Computing (include XaaS, shadow IT, IaaS, AWS, SaaS), jQuery, SEO, Copyright ⓒ 1997, SUNGHAN KIM™ ® SUNGHAN KIM is retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services. By submitting, posting or displaying the content you give yourself, irrevocable, worldwide, royalty, and exclusive licence to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services. ""SUNGHAN KIM's Intellectual Property Rights"" means any and all rights existing from time to time under patent law, copyright law, semiconductor chip protection law, moral rights law, trade secret law, trademark law, unfair competition law, publicity rights law, privacy rights law, and any and all other proprietary rights, as well as, any and all applications, renewals, extensions, restorations and re-instatements thereof, now or hereafter in force and effect worldwide."
+bootstrap,Change license from Apache to MIT
+bootstrap,format MIT license (word wrap)
+bootstrap,Create LICENSE.md
+bootstrap,Create LICENSE
+bootstrap,switch to MIT license
+bootstrap,Change license from Apache to MIT
+bootstrap,Update LICENSE
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Credit author & include MIT license for PidFile class recipe
+bootstrap,Note about the license change from Apache to MIT
+bootstrap,Updated license
+bootstrap,Clearer note about the license change from Apache to MIT
+bootstrap,Merge pull request #12317 from twbs/grunt-task-license clarify Grunt task licensing
+bootstrap,underp license maybe
+bootstrap,"Clear up license FAQs by using ""Bootstrap"" as noun instead of ""Twitter open source software"""
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,"Fonts inclusion, paths cleanup - we are using shorter and cleaner paths now - .gitignore modification is always required to be sure that licensed fonts don't get into remote"
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Change license from Apache to MIT
+bootstrap,tweak part of license FAQ to reflect Twitter->twbs change
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Improve license overall
+bootstrap,"using templating doesn't seem to work there; hardcode license URL instead Tested the customizer, the generated zip had: css/bootstrap.css:line 6: * Licensed under MIT (<%= _.pluck(pkg.licenses, ""url"").join("", "") %>) Revised customizer generates: css/bootstrap.css:line 4: * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)"
+bootstrap,Update LICENSE
+bootstrap,Change license from Apache to MIT
+bootstrap,Merge pull request #11209 from ZDroid/new_year Update license year
+bootstrap,Add README.md and License
+bootstrap,Make the license stuff less scary. Add a license file too
+bootstrap,Merge pull request #11105 from twbs/license-note Add notes about dual-licensing contributions before switching to MIT in v3.1
+bootstrap,"modified: LICENSE modified: README.md new file: index.htm -Changed menu, it now contains the right items for my own needs. -Removed Analytics code, it's now simply a placeholder. -Changed copyright. All license-info moved to LICENSE."
+bootstrap,Changed license.
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Added License file
+bootstrap,"modified: LICENSE modified: README.md new file: index.htm -Changed menu, it now contains the right items for my own needs. -Removed Analytics code, it's now simply a placeholder. -Changed copyright. All license-info moved to LICENSE."
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Change license from Apache to MIT
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,"modified: LICENSE modified: README.md new file: index.htm -Changed menu, it now contains the right items for my own needs. -Removed Analytics code, it's now simply a placeholder. -Changed copyright. All license-info moved to LICENSE."
+bootstrap,Merge pull request #8821 from twbs/twbs-license-faq-tweak tweak part of license FAQ to reflect Twitter->twbs change
+bootstrap,Update LICENSE just for test
+bootstrap,Merge pull request #11105 from twbs/license-note Add notes about dual-licensing contributions before switching to MIT in v3.1
+bootstrap,"added licenses, added missing readme stuff"
+bootstrap,Change license from Apache to MIT
+bootstrap,added license file
+bootstrap,Change license from Apache to MIT
+bootstrap,Update LICENSE
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Change license from Apache to MIT
+bootstrap,Change license from Apache to MIT
+bootstrap,Rename license to license.md; point readme to it via link
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Merge pull request #11209 from ZDroid/new_year Update license year
+bootstrap,Update LICENSE just for test
+bootstrap,Change license from Apache to MIT
+bootstrap,"Move license FAQs to the docs, add link to side nav"
+bootstrap,Credit author & include MIT license for PidFile class recipe
+bootstrap,Update LICENSE
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,tweak part of license FAQ to reflect Twitter->twbs change
+bootstrap,Change license from Apache to MIT
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Punt Apache license information and stick with MIT
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Rename docs/LICENSE-DOCS to docs/LICENSE It sounded weird.
+bootstrap,Added License files and Readme
+bootstrap,Added README and LICENSE files.
+bootstrap,Update LICENSE
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,"Dropping unused variable in dropdown.js Dropping an unused variable in the Dropdown function inside the `dropdown.js` code. There are no new/changed unit tests, as there are no feature/bug changes requiring new test cases. For the record: I agree to dual-license this contribution under the Apache 2 and MIT licenses."
+bootstrap,license in customizer
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Update the LICENSE to the actual APLv2
+bootstrap,Move license to the top of the file.
+bootstrap,Update LICENSE Just for test
+bootstrap,Nicer docs license name DOCUMENTATION-LICENSE is so long.
+bootstrap,Change license from Apache to MIT
+bootstrap,Change license from Apache to MIT
+bootstrap,Update LICENSE
+bootstrap,Update LICENSE Just for test
+bootstrap,Merge pull request #11046 from ZDroid/patch-3 Nicer docs license name
+bootstrap,"Move MIT license to top, link to pidfile recipe"
+bootstrap,Added README and LICENSE files.
+bootstrap,QA-5429 - Product naming change - licenses and source code
+bootstrap,Merge pull request #10693 from twbs/include-docs-license include a copy of the CC-BY 3.0 License that the docs are under
+bootstrap,Change license from Apache to MIT

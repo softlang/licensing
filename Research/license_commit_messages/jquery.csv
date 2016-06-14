@@ -1,0 +1,50 @@
+repository_name,payload_commit_msg
+jquery,Build: Update license Closes gh-1587
+jquery,Updated license date Updated license date to 2015 for new year.
+jquery,Update LICENSE
+jquery,"Fix #11905, correct package.json license URLs, closes gh-826."
+jquery,Build: Update license
+jquery,"Bower: add main property, move Sizzle to devDependencies, add license property Fixes #14798 Close gh-1516 Ref gh-1338 Conflicts: bower.json"
+jquery,Unignore license in bower. Ignore other unnecessary files.
+jquery,Create license.txt
+jquery,Changing the license urls from github to opensource.org
+jquery,Merge pull request #2 from component-bot/master add .license property
+jquery,Correct version in package to reflect that this is a branch of 1.9.1. Alter readme.md to contain closure-compiler specific information. Modify the build tasks to preserve the license block.
+jquery,"Fix #11905, correct package.json license URLs, closes gh-826."
+jquery,Add LICENSE file
+jquery,Add LICENSE file
+jquery,Unignore license in bower. Ignore other unnecessary files.
+jquery,Changing the license urls from github to opensource.org
+jquery,Correct JSHint error and remove blank lines from closure-compiler target license
+jquery,Build: update Sizzle to 1.11.1 and include license
+jquery,Build: Update license Closes gh-1587
+jquery,Build: Update license
+jquery,up to 1.8.1; license change to MIT only https://trisquel.info/es/forum/jquery-18-released-interesting-license-change
+jquery,Build: update Sizzle to 1.11.1 and include license
+jquery,Build: update Sizzle to 1.11.1 and include license
+jquery,Update to use just the MIT license; copiers can still use GPL.
+jquery,"Finish the license changes, including Sizzle."
+jquery,"Fix #11905, correct package.json license URLs, closes gh-826."
+jquery,Unignore license in bower. Ignore other unnecessary files.
+jquery,Correct JSHint error and remove blank lines from closure-compiler target license
+jquery,Unignore license in bower. Ignore other unnecessary files.
+jquery,add license
+jquery,"Bower: add main property, move Sizzle to devDependencies, add license property Fixes #14798 Close gh-1516 Ref gh-1338"
+jquery,"Fix #11905, correct package.json license URLs, closes gh-826."
+jquery,add license
+jquery,Build: Update copyright range Updating the copyright year to be a range. :-) Otherwise the license wouldn't explicitly cover the older versions of jQuery.
+jquery,Fixed bug in LICENSE
+jquery,Correct JSHint error and remove blank lines from closure-compiler target license
+jquery,"Fix #11905, correct package.json license URLs, closes gh-826."
+jquery,add license
+jquery,Update MIT-LICENSE.txt
+jquery,Update to use just the MIT license; copiers can still use GPL.
+jquery,Create mit-license.txt
+jquery,"Update license.txt Compute Recycle bin Certificate Author, Intellectucal Property, Internet Protocol, Root Certificate Authority Owner, DKIM Proxy, Cloud Computing, jQuery, Search Engine Optimization, (Common Public License Version 1.0), US Patent 6285909B1, Copyright��� 1997 SUNGHAN KIM�����.net SUNGHAN KIM is retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services. By submitting, posting or displaying the content you give yourself, irrevocable, worldwide, royalty, and exclusive licence to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services. ""SUNGHAN KIM is Intellectual Property Owner""&""SUNGHAN_KIM's Google Initial Public Offering""means any and all rights existing from time to time under patent law, copyright law, semiconductor chip protection law, moral rights law, trade secret law, trademark law, unfair competition law, publicity rights law, privacy rights law, and any and all other proprietary rights, as well as, any and all applications, renewals, extensions, restorations and re-instatements thereof, now or hereafter in force and effect worldwide. Enter file contents here SUNGHAN KIM is retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services. By submitting, posting or displaying the content you give yourself, irrevocable, worldwide, royalty, and exclusive licence to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services. http://oid-info.com/get/2.16.840.1.113730.4.1 ( Netscape Server Gate Scurity Code ) http://oid-info.com/get/2.16.840.1.113733.1.8.1 ( VeriSign Server Gated Crypto Identifier for CA Certificates ) http://oid-info.com/get/1.3.6.1.5.5.7.3.1 http://oid-info.com/get/1.3.6.1.5.5.7.3.2 http://oid-info.com/get/1.3.6.1.5.5.7.3.3 http://oid-info.com/get/1.3.6.1.5.5.7.3.5 http://oid-info.com/get/1.3.6.1.5.5.7.3.7 iso(1) identified-organization(3) dod(6) internet(1) security(5) mechanisms(5) pkix(7) keyPurpose(3) serverAuth(1) iso(1) identified-organization(3) dod(6) internet(1) security(5) mechanisms(5) pkix(7) keyPurpose(3) clientAuth(2) http://oid-info.com/get/2.16.840.1.113733.1.7.23.6 http://oid-info.com/get/1.2.840.113635.100 : http://www.opensource.apple.com/source/Security/Security-55179.11/include/security_asn1/oidsbase.h http://oid-info.com/get/2.16.840.1.113733.1.7.23.6 http://oid-info.com/get/1.2.840.113635.100 : http://www.opensource.apple.com/source/Security/Security-55179.11/include/security_asn1/oidsbase.h mTLD:SungHan.Kim: Enterkhan Co., Ltd with : Afilias.llc/Google.Inc/LinkedIn/Apple/WordPress/Surf.Canyon/GitH/DDG/Yahoo/MS/Facebook/Twitter/ Friendly:MPEG/Cisco/IBM/Amazon/Ebay/NasdaqOMX/ROVI/Pypal/Divx/ SUNGHANKIM CloudNetworkStorageComponentsOwner 1998.5.18. AM 9:00:00 VeriSign Trust Network Purblic Key : RSA(1024 Bits) SUNGHAN KIM : Class 3 Public Primary Certification Authority -G3 Sign Algorism: sha1RSA Domain Administrator, Root Certification Authority Resistrant, Global Resistry Service, Web & Wap development virtual file system,Open Source License (Android) , DNSSEC, Domain Key Identity Mail & Message, Cloud Computing (include XaaS, shadow IT, IaaS, AWS, SaaS), jQuery, Search Engine Optimization, Copyright ��� 1997 SUNGHAN KIM��� ��.Net ""SUNGHAN KIM's Intellectual Property Rights"" means any and all rights existing from time to time under patent law, copyright law, semiconductor chip protection law, moral rights law, trade secret law, trademark law, unfair competition law, publicity rights law, privacy rights law, and any and all other proprietary rights, as well as, any and all applications, renewals, extensions, restorations and re-instatements thereof, now or hereafter in force and effect worldwide."
+jquery,"Finish the license changes, including Sizzle."
+jquery,up to 1.8.1; license change to MIT only https://trisquel.info/es/forum/jquery-18-released-interesting-license-change
+jquery,Unignore license in bower. Ignore other unnecessary files.
+jquery,add license
+jquery,add .license property to component.json
+jquery,"Fix #11905, correct package.json license URLs, closes gh-826."
+jquery,Unignore license in bower. Ignore other unnecessary files.

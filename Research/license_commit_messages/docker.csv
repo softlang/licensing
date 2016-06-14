@@ -1,0 +1,44 @@
+repository_name,payload_commit_msg
+docker,added LICENSE file
+docker,Create LICENSE.txt
+docker,nzbdrone Relase 1 and minor update to minecraft init (licenses)
+docker,changed subsonic to license-free version
+docker,Switch license to WTFPL
+docker,"I was talking to someone whom i listen to, and she noted that our docs don't mention the license Signed-off-by: Sven Dowideit <SvenDowideit@home.org.au>"
+docker,Delete LICENSE
+docker,Merge pull request #9528 from SvenDowideit/add-license-to-docs Add Apache license and link to the docs
+docker,Create LICENSE
+docker,Delete LICENSE
+docker,Create LICENSE
+docker,"Add pyrun license, fix readme"
+docker,Delete LICENSE
+docker,"Fix boilerplate text in Apache license This commit updates the Apache license boilerplate with actual information. The Apache license appendix (designed to be removed before publication) states: ``` APPENDIX: How to apply the Apache License to your work. To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets ""[]"" replaced with your own identifying information. (Don't include the brackets!)... ``` Additionally, the copyright year was not included. Copyright notices must reflect the current year. This commit updates the listed year to 2014. see: http://www.copyright.gov/circs/circ01.pdf for more info"
+docker,update license
+docker,Update LICENSE - company name
+docker,License file
+docker,Updating license
+docker,"Resync the DCO text with upstream at http://developercertificate.org/ ``` Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed. ``` Docker-DCO-1.1-Signed-off-by: Andrew Page <admwiggin@gmail.com> (github: tianon)"
+docker,adding license for httpd
+docker,Merge pull request #4636 from phillipalexander/fix-license Fix boilerplate text in Apache license
+docker,Update LICENSE
+docker,Merge pull request #4636 from phillipalexander/fix-license Fix boilerplate text in Apache license
+docker,"Update license I noticed at the bottom of the license that the placeholder for the year and company wasn't filled in, so I included the current year and the company name. Copyright notices must reflect the current year, so this commit updates the listed year to 2014. See http://www.copyright.gov/circs/circ01.pdf for more info."
+docker,adding license for httpd
+docker,"Merge pull request #3374 from tianon/fpm-license-vendor Replace FPM --vendor with --license, and give it the proper value of ""Apache-2.0"""
+docker,"Fix boilerplate text in Apache license This commit updates the Apache license boilerplate with actual information. The Apache license appendix (designed to be removed before publication) states: ``` APPENDIX: How to apply the Apache License to your work. To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets ""[]"" replaced with your own identifying information. (Don't include the brackets!)... ``` Additionally, the copyright year was not included. Copyright notices must reflect the current year. This commit updates the listed year to 2014. see: http://www.copyright.gov/circs/circ01.pdf for more info"
+docker,"Replace FPM --vendor with --license, and give it the proper value of ""Apache-2.0"" Fixes #3372"
+docker,"Update license year Fix outdated copyright year (updated to 2014). The copyright year was out of date. Copyright notices must reflect the current year, so this commit updates the listed year to 2014. See http://www.copyright.gov/circs/circ01.pdf for more info."
+docker,"Fix boilerplate text in Apache license This commit updates the Apache license boilerplate with actual information. The Apache license appendix (designed to be removed before publication) states: ``` APPENDIX: How to apply the Apache License to your work. To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets ""[]"" replaced with your own identifying information. (Don't include the brackets!)... ``` Additionally, the copyright year was not included. Copyright notices must reflect the current year. This commit updates the listed year to 2014. see: http://www.copyright.gov/circs/circ01.pdf for more info Docker-DCO-1.1-Signed-off-by: Phillip Alexander <git@phillipalexander.io> (github: phillipalexander)"
+docker,"Update README.md added Licensing Docker is licensed under the Apache License, Version 2.0. See LICENSE for full license text."
+docker,"Add Developer Certificate of Origin Text We purposely chose to license Docker under the Apache 2.0 license. This is a well-known license, which is popular for its permissive and flexible properties, while still encouraging a collaborative community. It also makes certain representations with regard to contributions, and the rights given to contributors, the project, people who use Docker, people who modify Docker, etc. This approach to contributions is inspired by the popular Linux Developer ""Certificate of Origin"". This approach makes it simple for new contributors to get started, and avoids bureaucracy in tracking contributions and contributors. To indicate accordance, each individual contribution to the Project is signed off by the developer, using his or her real name, email address, and github handle in the format below: Docker-DCO-1.0-Signed-off-by: Joe Smith <joe.smith@email.com>"
+docker,"Add quick_docker.html Docker Quick Reference page This is an initial version of a summary page for intermediate and advanced docker users. It is developed from github.com/merriam/quick_reference and the guide is under a CC Share-a-like Non-commercial license. It's still improviing, but provides some quick help so far."
+docker,Merge pull request #4636 from phillipalexander/fix-license Fix boilerplate text in Apache license
+docker,"Fix boilerplate text in Apache license This commit updates the Apache license boilerplate with actual information. The Apache license appendix (designed to be removed before publication) states: ``` APPENDIX: How to apply the Apache License to your work. To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets ""[]"" replaced with your own identifying information. (Don't include the brackets!)... ``` Additionally, the copyright year was not included. Copyright notices must reflect the current year. This commit updates the listed year to 2014. see: http://www.copyright.gov/circs/circ01.pdf for more info Docker-DCO-1.1-Signed-off-by: Phillip Alexander <git@phillipalexander.io> (github: ) Docker-DCO-1.1-Signed-off-by: Phillip Alexander <git@phillipalexander.io> (github: phillipalexander)"
+docker,"Fix boilerplate text in Apache license This commit updates the Apache license boilerplate with actual information. The Apache license appendix (designed to be removed before publication) states: ``` APPENDIX: How to apply the Apache License to your work. To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets ""[]"" replaced with your own identifying information. (Don't include the brackets!)... ``` Additionally, the copyright year was not included. Copyright notices must reflect the current year. This commit updates the listed year to 2014. see: http://www.copyright.gov/circs/circ01.pdf for more info Docker-DCO-1.1-Signed-off-by: Phillip Alexander <git@phillipalexander.io> (github: )"
+docker,"Merge pull request #3374 from tianon/fpm-license-vendor Replace FPM --vendor with --license, and give it the proper value of ""Apache-2.0"""
+docker,"dockerfile/java als baseimage, expose ports, licensefile, klaar voor manual setup"
+docker,Create LICENSE
+docker,Merge pull request #4636 from phillipalexander/fix-license Fix boilerplate text in Apache license
+docker,"Create less technical README. Attempted to re-organized, consolidate Solomon's original README. I rewrote it for a less technical reader. Possibly, it would make sense to have this as a different document. Possibly, it would make sense to move install instructions to a different document. Also, we need to make sure that license and export issues are captured somewhere"
+docker,"Merge pull request #3374 from tianon/fpm-license-vendor Replace FPM --vendor with --license, and give it the proper value of ""Apache-2.0"""
+docker,Removed the 5th clause Removed clause which states contributions should be relicensed

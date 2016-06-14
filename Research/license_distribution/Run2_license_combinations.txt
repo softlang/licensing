@@ -1,0 +1,697 @@
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache, BeerWare, boost-1, BSD2, BSD3, BSD4, GPLv2, GPLv3, LesserGPL, MIT
+Apache, BeerWare, BSD2, BSD3, BSD4, GPLv2, GPLv3, LesserGPL, MIT
+Apache, BeerWare, BSD3, MIT
+Apache, boost-1, BSD2, BSD3, GPLv2, Intel, MIT
+Apache, boost-1, MIT
+Apache, boost-1, MIT
+Apache, BSD2, BSD2
+Apache, BSD2, BSD3
+Apache, BSD2, BSD3, BSD2
+Apache, BSD2, BSD3, BSD4, FSFUnlimited, GPLv2, GPLv3, LesserGPL, LGPL, LibraryGPL, MIT, MPLv1
+Apache, BSD2, BSD3, BSD4, GPLv2, GPLv3, Intel, MIT
+Apache, BSD2, BSD3, BSD4, MIT
+Apache, BSD2, BSD3, BSD4, MIT
+Apache, BSD2, BSD3, DoWhatTheFuckYouWant, MIT
+Apache, BSD2, BSD3, GPLv2, GPLv3, LesserGPL, MIT
+Apache, BSD2, BSD3, GPLv2, GPLv3, MIT
+Apache, BSD2, BSD3, GPLv2, Intel, MIT
+Apache, BSD2, BSD3, GPLv2, LesserGPL, LibraryGPL, MIT
+Apache, BSD2, BSD3, GPLv2, LesserGPL, MIT
+Apache, BSD2, BSD3, GPLv2, LibraryGPL, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, BSD3, MIT
+Apache, BSD2, GPLv2, GPLv3
+Apache, BSD2, GPLv2, GPLv3, MIT
+Apache, BSD2, GPLv3, MIT
+Apache, BSD2, GPLv3, MIT
+Apache, BSD2, MIT
+Apache, BSD2, MIT
+Apache, BSD2, MIT
+Apache, BSD2, MIT
+Apache, BSD2, MIT
+Apache, BSD3
+Apache, BSD3, CC, CC, GPLv2, LesserGPL, MIT
+Apache, BSD3, GPLv2, GPLv3, MIT
+Apache, BSD3, GPLv2, LesserGPL
+Apache, BSD3, GPLv2, LesserGPL, LibraryGPL, MIT
+Apache, BSD3, GPLv2, LGPL, MIT, MPLv1
+Apache, BSD3, GPLv2, MIT
+Apache, BSD3, GPLv2, MIT
+Apache, BSD3, GPLv2, MIT, BSD3, SunSimpleLic, W3CLic
+Apache, BSD3, GPLv3
+Apache, BSD3, Intel, MIT
+Apache, BSD3, Intel, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, BSD3, MIT
+Apache, GPLv2
+Apache, GPLv2, GPLv3, MIT
+Apache, GPLv2, LesserGPL, MIT
+Apache, GPLv2, LesserGPL, MIT
+Apache, GPLv2, MIT
+Apache, GPLv3
+Apache, GPLv3
+Apache, GPLv3, LesserGPL, MIT
+Apache, GPLv3, LesserGPL, MIT
+Apache, GPLv3, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+Apache, MIT
+BeerWare, GPLv3
+BSD2
+BSD2
+BSD2
+BSD2
+BSD2
+BSD2
+BSD2
+BSD2
+BSD2
+BSD2
+BSD2, BSD3
+BSD2, BSD3
+BSD2, BSD3, FSFUnlimited, GPLv3, MIT
+BSD2, BSD3, FSFUnlimited, GPLv3, MIT
+BSD2, BSD3, GPLv2, Intel, LesserGPL, MIT
+BSD2, BSD3, GPLv2, LesserGPL, MIT
+BSD2, BSD3, GPLv2, LesserGPL, MIT, SunSimpleLic
+BSD2, BSD3, Intel, MIT
+BSD2, BSD3, MIT
+BSD2, BSD3, MIT
+BSD2, BSD3, MIT
+BSD2, BSD3, MIT
+BSD2, BSD3, MIT
+BSD2, GPLv2, GPLv3, LesserGPL, MIT
+BSD2, GPLv2, GPLv3, MIT
+BSD2, MIT
+BSD2, MIT
+BSD2, MIT
+BSD2, MIT
+BSD2, MIT
+BSD2, MIT
+BSD2, MIT
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3
+BSD3, BSD4, FSFUnlimited, GPLv2, MIT
+BSD3, DoWhatTheFuckYouWant, GPLv2, GPLv3, MIT
+BSD3, FSFUnlimited, GPLv2, MIT
+BSD3, GPLv2
+BSD3, GPLv2, GPLv3, LesserGPL, MIT
+BSD3, GPLv2, GPLv3, LibraryGPL
+BSD3, GPLv2, LesserGPL, MIT
+BSD3, GPLv2, LesserGPL, MIT
+BSD3, GPLv2, MIT
+BSD3, GPLv3
+BSD3, GPLv3, MIT
+BSD3, Intel
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+BSD3, MIT
+GPLv2
+GPLv2
+GPLv2
+GPLv2
+GPLv2, GPLv3
+GPLv2, GPLv3
+GPLv2, GPLv3, LesserGPL, LGPL
+GPLv2, GPLv3, LesserGPL, MIT
+GPLv2, GPLv3, LibraryGPL
+GPLv2, GPLv3, MIT
+GPLv2, GPLv3, MIT, SameAsPerl
+GPLv2, LesserGPL, LGPL, MIT, MPLv1, NPLv1
+GPLv2, LesserGPL, MIT
+GPLv2, LesserGPL, MIT
+GPLv2, LesserGPL, MIT
+GPLv2, LGPL, MIT
+GPLv2, LibraryGPL, MIT
+GPLv2, MIT
+GPLv2, MIT
+GPLv2, MIT
+GPLv2, MIT
+GPLv2, MIT
+GPLv2, MIT
+GPLv2, MIT
+GPLv3
+GPLv3
+GPLv3
+GPLv3
+GPLv3
+GPLv3
+GPLv3
+GPLv3, Apache, MIT
+GPLv3, Apache, MIT
+GPLv3, LesserGPL
+GPLv3, LesserGPL, MIT
+GPLv3, MIT
+GPLv3, MIT
+GPLv3, MIT
+GPLv3, MIT
+GPLv3, MIT
+Intel, MIT
+Intel, MIT
+Intel, MIT
+Intel, MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MIT
+MPLv1
+phpLic
